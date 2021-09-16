@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## To change Package Id and App Name
 ```shell_session
-$ flutter pub global run rename --bundleId dev.ruisilva.remotepleasure
+$ flutter pub run rename --bundleId dev.ruisilva.remotev
 ```
 ```shell_session
-$ flutter pub global run rename --appname "Remote Pleasure"
+$ flutter pub run rename --appname "Remote V"
 ```
